@@ -1,0 +1,44 @@
+.circle {
+    width: 750px;
+    height: 700px;
+    background-image: linear-gradient(to top, #fee672, #ffc261, #ff9c64, #ff7775, #ff578d, #fe598c, #fd5b8c, #fc5d8b, #ff7d77, #fd9e70, #f3bc7a, #e8d694);
+    border-radius: 50%;
+    margin: auto;
+    position: relative;
+}
+
+.box {
+    width: 540px;
+    height: 390px;
+    background: #fefefe;
+    position: absolute;
+    top: 22%;
+    left: 15%;
+    box-shadow: 2px 2px 4px black;
+
+
+}
+
+.btn-style {
+    width: 100%;
+    height: 30px;
+    border-radius: 3px;
+    background-color: rgb(93, 163, 234);
+    border: 2px solid rgb(93, 163, 234);
+    color: white;
+
+}
+
+.close {
+    position: absolute;
+    top: 20.5%;
+    left: 84%;
+}
+
+.rounded-btn {
+    border-radius: 50%;
+    padding: 5px 12px;
+    background-color: white;
+    border-style: none;
+    box-shadow: 2px 2px 4px black;
+}
